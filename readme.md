@@ -1,6 +1,6 @@
 # 🤖 Pypko - Seu Bot Discord Inteligente
 
-<img src="assets/Pypko.png" alt="Mascote do Pypko" width="200"/>
+<img src="assets/Pipko.png" alt="Mascote do Pypko" width="400"/>
 
 **Pypko** é um bot feito para transformar seu servidor Discord com comandos personalizados, automações inteligentes e muito mais!
 
@@ -25,6 +25,8 @@ Ao utilizar o bot **Pypko**, você concorda com os seguintes termos:
 - Abusos, spam ou uso indevido podem resultar em banimento do bot em seu servidor.
 
 ---
+
+<img src="assets/Pipkosleep.png" alt="Mascote do Pypko" width="400"/>
 
 ## 🔒 Política de Privacidade
 
