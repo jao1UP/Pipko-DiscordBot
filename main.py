@@ -24,7 +24,7 @@ async def online(ctx:commands.Context):
     ))
     await ctx.send("Status atualizado! O bot está online! 🐱")
 @bot.command()
-async def dormindo(ctx:commands.Context):
+async def dormir(ctx:commands.Context):
     await bot.change_presence(activity = discord.CustomActivity(
     name = "😴 Hora de descansar!"
     ))
